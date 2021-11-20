@@ -6,7 +6,7 @@
 
 
 
-Ссылка: 
+Ссылка: https://kuban23.github.io/Weather-forecast/
 
 
 
